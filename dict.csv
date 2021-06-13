@@ -1,0 +1,18 @@
+column_name,data_type,description,possible_value
+Age,int,Indicates the age of the patient,-
+Gender,chr,Identify gender of the patient,Female; Male
+Polyuria,chr,Indicates if a person passes frequent and passes excessive amounts of urine,Yes; No
+Polydipsia,chr,Indicates if a person has excessive thirst or excess drinking,Yes; No
+sudden.weight.loss,chr,Indicates if a person have sudden weight loss,Yes; No
+weakness,chr,Indicates if a person feels body weakness,Yes; No
+Polyphagia,chr,Indicates if a person has excessive or extreme hunger,Yes; No
+Genital.thrush,chr,Indicates if a person has fungal infection at the genital area,Yes; No
+visual.blurring,chr,Indicates if a person has blurry vision,Yes; No
+Itching,chr,Indicates if a person has irritating sensation on the skin that causes scratching,Yes; No
+Irritability,chr,Indicates if a person if often irritable,Yes; No
+delayed.healing,chr,Indicates if a person has slow healing,Yes; No
+partial.paresis,chr,Indicates if a person experiences partial weakening of muscles,Yes; No
+muscle.stiffness,chr,Indicates if muscles feel tight and more difficult to move than you usually do,Yes; No
+Alopecia,chr,Indicates if a person has condition that causes hair to fall out in small patches,Yes; No
+Obesity,chr,Indicates if a person has a BMI over 30,Yes; No
+class,chr,Indicates the results of having diabetes,Positive; Negative
